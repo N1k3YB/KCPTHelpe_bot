@@ -1,0 +1,13 @@
+aiofiles==23.2.1
+aiogram==3.4.1
+aiohttp==3.9.3
+aiosignal==1.3.1
+annotated-types==0.6.0
+anyio==4.3.0
+gigachain==0.1.10
+gigachain-community==0.0.25
+gigachain-core==0.1.28
+gigachain-experimental==0.0.53
+gigachain-text-splitters==0.0.1
+gigachat==0.1.19
+
